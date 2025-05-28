@@ -167,14 +167,6 @@ cd client && npm start
 
 ---
 
-## 🧠 Prompting / AI Tools Used
-
-- ChatGPT for architecture, code, and debugging
-- Loom for demo video recording
-- GitHub Copilot for code suggestions
-
----
-
 ## 🌐 Credits
 
 This project was developed as part of a hackathon run by [https://katomaran.com](https://katomaran.com)
