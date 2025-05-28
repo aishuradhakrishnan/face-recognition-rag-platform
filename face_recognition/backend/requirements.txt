@@ -1,0 +1,13 @@
+flask
+flask-cors
+face_recognition
+opencv-python
+numpy
+scikit-learn
+faiss-cpu
+langchain
+openai
+python-dotenv
+websockets
+uvicorn
+fastapi
