@@ -149,18 +149,6 @@ All key events are logged:
 
 ---
 
-## 🏗️ Architecture Diagram
-
-![architecture](./architecture.png)
-
----
-
-## 📹 Demo Video
-
-🎥 [Click here to watch the demo on Loom](https://www.loom.com/share/demo-link-here)
-
----
-
 ## 🏁 Run the Full System
 
 ```bash
